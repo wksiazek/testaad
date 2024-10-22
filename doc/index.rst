@@ -22,7 +22,7 @@ Welcome to DiffEvoKit documentation! Zmiany
    jade
    ode
    degl
-   aade
+   aade.rst
    delb
    eide
    mgde
