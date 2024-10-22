@@ -7,9 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 import os
 import sys
-from DET.DETAlgs.aade import AADE
-
-sys.path.insert(0, os.path.abspath('../..'))
+sys.path.insert(0, os.path.abspath('..'))
 
 project = 'Example'
 copyright = 'workshop participant'
