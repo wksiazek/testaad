@@ -1,14 +1,43 @@
-.. Example documentation master file, created by
-   sphinx-quickstart on Sat Sep 23 20:35:12 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Example's documentation 222!
+Welcome to DiffEvoKit documentation! Zmiany
 ===================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: General
 
-   some-feature.md
-   another-feature.md
+   installation
+   getting_started
+
+.. toctree::
+   :maxdepth: 1
+   :caption: API
+
+   de
+   comde
+   derl
+   nmde
+   emde
+   ide
+   sade
+   jade
+   ode
+   degl
+   aade
+   delb
+   eide
+   mgde
+
+.. toctree::
+   :maxdepth: 1
+   :caption: DET
+
+   ackley
+   benchmark_functions
+   optimization_opfunu
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Additional information
+
+   contribute
+   release_history
