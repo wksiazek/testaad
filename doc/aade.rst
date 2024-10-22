@@ -1,6 +1,6 @@
 AADE
 #####
-AADE (Auto Adaptive Differential Evolution Algorithm) 222
+AADE (Auto Adaptive Differential Evolution Algorithm) 222333
 
 .. automodule:: DET.DETAlgs.aade
    :members:
