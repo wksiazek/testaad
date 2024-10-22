@@ -29,7 +29,7 @@ Welcome to DiffEvoKit documentation! Zmiany
 
 .. toctree::
    :maxdepth: 1
-   :caption: Examples
+   :caption: DET
 
    ackley
    benchmark_functions
