@@ -1,4 +1,4 @@
-AADE (Auto Adaptive Differential Evolution Algorithm)
+AADE (Auto Adaptive Differential Evolution Algorithm)aa
 ####################################################
 
 .. currentmodule:: DET.DETAlgs.aade
