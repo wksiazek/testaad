@@ -18,7 +18,12 @@ release = '0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['myst_parser','sphinx.ext.autodoc']
+extensions = [
+    'sphinx.ext.autodoc',        # generuje automatyczną dokumentację
+    'sphinx.ext.napoleon',       # wspiera docstringi w stylu Google i NumPy
+    'sphinx.ext.viewcode',       # dodaje linki do źródeł kodu w dokumentacji
+    'myst_parser',               # obsługuje Markdown (jeśli to potrzebne)
+]
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
