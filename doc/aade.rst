@@ -1,7 +1,9 @@
 AADE (Auto Adaptive Differential Evolution Algorithm)
 ####################################################
 
-.. automodule:: DET.DETAlgs.aade
+.. currentmodule:: DET.DETAlgs.aade
+
+.. autoclass:: AADE
    :members:
    :undoc-members:
    :inherited-members:
